@@ -30,5 +30,3 @@ Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.sv
 
 [![](https://visitcount.itsvg.in/api?id=Emritik&icon=0&color=6)](https://visitcount.itsvg.in)
 
-
-[![Emritik's GitHub | Stats](https://stats.quine.sh/Emritik/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Emritik)
