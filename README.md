@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Header](https://res.cloudinary.com/da3wjnlzg/image/upload/v1690096527/github-banner_mt2trc.png)
 
 #### 🎉 Updates:
@@ -11,7 +10,7 @@
 Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/em_ritik_/)
 <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014498949755&viewas=&show_switched_toast=false&show_switched_tooltip=false&is_tour_dismissed=false&is_tour_completed=false&show_podcast_settings=false&show_community_review_changes=false&should_open_composer=fals)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ritiksharma_21007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emritiksharma) [![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-sharma-48486722a/) 
- [![emritik](https://img.shields.io/badge/protfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://emritik.netlify.app/) 
+ [![emritik](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://emritik.netlify.app/) 
 
 
 # Tech Stack 💻 
