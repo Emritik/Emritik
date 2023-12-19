@@ -1,4 +1,5 @@
-![Header](https://www.canva.com/design/DAF3ZI9qCGs/eJ83c8GrO1LaowvBtg-eUw/view?utm_content=DAF3ZI9qCGs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+### Hey, I'm Ritik
+##### I love coding and building a web
 
 #### 🎉 Updates:
 
