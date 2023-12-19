@@ -1,4 +1,4 @@
-![Header](https://res.cloudinary.com/da3wjnlzg/image/upload/v1690096527/github-banner_mt2trc.png)
+![Header](https://www.canva.com/design/DAF3ZI9qCGs/eJ83c8GrO1LaowvBtg-eUw/view?utm_content=DAF3ZI9qCGs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 #### 🎉 Updates:
 
