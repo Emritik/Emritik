@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer • I love building for the web
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Django+Enthusiast;I+build+for+the+web;Always+learning+new+tech)](https://github.com/Emritik)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+Enthusiast;I+build+for+the+web;Always+learning+new+tech)](https://github.com/Emritik)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://emritik.github.io/Personal-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-sharma-48486722a/)
@@ -19,8 +19,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently building with **Django** and sharpening my full-stack skills
-- 🌱 Always learning something new — ask me anything about **Django**
+- 🔭 I'm currently building with **Java** and sharpening my full-stack skills
+- 🌱 Always learning something new — ask me anything about **Java**
 - 💬 I enjoy turning ideas into clean, working web apps
 - ⚡ Fun fact: I prefer **tabs** over spaces
 
@@ -32,6 +32,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +41,6 @@
 
 **Frameworks & Libraries**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -67,13 +67,11 @@
 
 ## 💡 Featured Projects
 
-> _Swap these for your best work, and pin the repos on your profile too._
-
 **[Personal Portfolio](https://emritik.github.io/Personal-portfolio/)** — My personal portfolio site, built from scratch.
 `HTML` · `CSS` · `JavaScript`
 
 **[Project Name](#)** — _One line on what it does and why it's worth a look._
-`Django` · `Python` · `MySQL`
+`Java` · `Python` · `MySQL`
 
 **[Project Name](#)** — _One line on what it does and why it's worth a look._
 `React` · `JavaScript`
