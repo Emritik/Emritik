@@ -78,7 +78,7 @@
 
 <img height="180em" src="https://ghstats.dev/api/card?username=Emritik&theme=github_dark"/>
 
-<img height="180em" src="https://ghstats.dev/api/top-langs?username=Emritik&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://ghstats.dev/api/langs?username=Emritik&layout=compact&theme=github_dark"/>
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Emritik&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-trophies.vercel.app/?username=Emritik&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -124,9 +124,13 @@
 
 ---
 
-# 📅 Contribution Snake
+<!-- 📅 CONTRIBUTION SNAKE — DISABLED UNTIL THE ACTION RUNS
+     The image 404s because your repo has no `output` branch yet.
+     1. Add .github/workflows/snake.yml (see snake.yml alongside this file)
+     2. Actions -> "Generate Snake" -> Run workflow
+     3. Confirm the `output` branch exists, then uncomment the block below.
 
-> Enable GitHub Actions to generate this automatically.
+# 📅 Contribution Snake
 
 <div align="center">
 
@@ -135,11 +139,12 @@
 </div>
 
 ---
+-->
 
 # 📫 Connect With Me
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="mailto:sharmar152004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://linkedin.com/in/ritik-sharma-48486722a"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://github.com/Emritik"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://twitter.com/emritiksharma"><img src="https://skillicons.dev/icons?i=twitter"/></a>
