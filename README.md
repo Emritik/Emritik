@@ -124,7 +124,7 @@
 
 ---
 
-<!-- 📅 CONTRIBUTION SNAKE — DISABLED UNTIL THE ACTION RUNS
+📅 CONTRIBUTION SNAKE — DISABLED UNTIL THE ACTION RUNS
      The image 404s because your repo has no `output` branch yet.
      1. Add .github/workflows/snake.yml (see snake.yml alongside this file)
      2. Actions -> "Generate Snake" -> Run workflow
@@ -139,7 +139,6 @@
 </div>
 
 ---
--->
 
 # 📫 Connect With Me
 
