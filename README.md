@@ -166,7 +166,7 @@ The image 404s because the repo has no `output` branch yet.
 3. Confirm the `output` branch exists, then remove the comment markers around the block below.
 -->
 
-<!--
+
 ## 📅 Contribution Snake
 
 <div align="center">
@@ -174,7 +174,7 @@ The image 404s because the repo has no `output` branch yet.
 <img src="https://raw.githubusercontent.com/Emritik/Emritik/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
--->
+
 
 ---
 
